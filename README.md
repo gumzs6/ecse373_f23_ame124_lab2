@@ -3,7 +3,7 @@
 <p>This package provides the navvis robot description and the way to view it in RVIZ.</p>
 <h2>Instructions to use the package launch files to view the robot description</h2>
 <ol>
-  <li>Open terminal and configure ROS with the command $ source /opt/ros/<ros-version>/setup.bash</ros-version></li>
+  <li>Open terminal and configure ROS with the command $ source /opt/ros/< ros-version >/setup.bash</li>
   <li>Pull this package into ROS configured workspace</li>
   <li>Change into directory lab2_ws and use the command $ source devel/setup.bash to configure the work space.</li>
   <li>Start roscore.</li>
